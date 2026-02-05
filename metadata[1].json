@@ -1,0 +1,7 @@
+{
+  "name": "MessManager Pro",
+  "description": "A comprehensive mess management system for students to track meals, shopping expenses, and automated monthly billing calculations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
