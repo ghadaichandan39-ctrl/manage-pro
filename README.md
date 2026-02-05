@@ -1,2 +1,0 @@
-# manage-pro
-manage pro
